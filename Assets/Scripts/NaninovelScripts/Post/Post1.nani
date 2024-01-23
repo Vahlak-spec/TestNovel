@@ -1,0 +1,11 @@
+@showUI MapButton
+@back Post
+Тут у дварфов кипит работа по переносу моркита
+@char Gunner.Default
+
+Captain: Ты почему еще здесь, иди к хнанилищо и закончи дело.
+@char Gunner.Go
+Captain: ВПЕРЕД!!!
+
+@hideChars
+@goto Map

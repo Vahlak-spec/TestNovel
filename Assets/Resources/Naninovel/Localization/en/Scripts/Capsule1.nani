@@ -1,0 +1,85 @@
+; Russian <ru> to English <en> localization document for `Capsule1` naninovel script
+
+# 91dd011
+; Captian: А вот и наш герой
+Captian: And here comes our hero
+
+# 9e136245
+; {name}: А кто говорил что поможет с диском?
+{name}: And who said that it would help with the disk?
+
+# 9591f4d7
+; Captian: Ну прости, ми не отбились бы от жуков даже если бы захотели
+Captian: Well, I'm sorry, we couldn't fight off the bugs even if we wanted to
+
+# 363f62f3
+; Captian: Давай помогу, улетаем от сюда
+Captian: Let me help you, let's fly away from here
+
+# ce931183
+; Что то теперь не охота делить с ними добычу
+Somehow now I don’t want to share the spoils with them
+
+# b231d31d
+; MisionControl: Вы закончили? Как обстановка.
+MisionControl: Are you done? How is the situation?
+
+# 8816f7b8
+; @choice "Поделить добичу" goto:.First
+@choice "Share the loot" goto:.First
+
+# d92ee094
+; @choice "Оставить себе" goto:.Second
+@choice "To keep for yourself" goto:.Second
+
+# 3fcb48b9
+; @choice "Сообщить центру управления" goto:.Third
+@choice "Notify control center" goto:.Third
+
+# 5cf25fb7
+; Captian: Ты чего застыл? Давай.
+Captian: Значок "Перевірено спільнотою"
+
+# fb63fa4f
+; {name}: Держи, надеюсь поделим справедливо?
+{name}: Here you go, I hope we can share it fairly?
+
+# eebca6cd
+; Captian: А как иначе
+Captian: How else
+
+# 6413733a
+; {name}: Нет уж, я ету штуку добил рискуя жизнья, она моя
+{name}: No, I finished off this thing at the risk of my life, it’s mine
+
+# 3286acd7
+; Captian: Ми так, не договариались
+Captian: We didn't agree
+
+# bcbc8e71
+; С этими словами капитан направляет четири ствола своего минигана в вашу сторону
+With these words, the captain points the four barrels of his minigun in your direction.
+
+# f33f49b4
+; {name}: Стреляй, не отдам
+{name}: Shoot, I won't give it up
+
+# 4b629d51
+; Стрелять он не начинает, явно блефует
+He doesn't start shooting, he's clearly bluffing
+
+# 5840aa96
+; Captian: Ладно, хрен с тобой не хочу тебя хоронить
+Captian: Okay, to hell with you, I don’t want to bury you
+
+# 6bf36b99
+; {name}: Цент управления, мы нашли хранилища данных конкурентов, тащим диск на базу
+{name}: Control center, we found competitors' data warehouses, drag the disk to the base
+
+# 1f69f85f
+; Captian: Ты чего твориш?
+Captian: What are you doing?
+
+# 4d59b59f
+; MisionControl: Ценная находка, грузите эго, компания не забудет нашей преданости
+MisionControl: Valuable find, load your ego, the company will not forget our dedication

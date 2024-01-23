@@ -1,0 +1,201 @@
+; Russian <ru> to English <en> localization document for `Post0` naninovel script
+
+# 97dd31dd
+; Добравшись до указаного места кроме контейнеров с мокритом и капсулы с патронами вы увидели то чего никак не ожидали
+Having reached the indicated place, in addition to containers with mokrit and a capsule with cartridges, you saw something that you did not expect
+
+# 14b5f456
+; Дворфов, прибывающих в добром здравии
+Dwarves arriving in good health
+
+# e3e1d33a
+; {name}: Ничего себе, так вы все живые
+{name}: Wow, so you're all alive
+
+# d2f6b020
+; Captain: Наконецто кого то отправили забрать мокрит
+Captain: Finally someone was sent to pick up the wetness
+
+# 750d19e7
+; Когда капитан подошол достаточно близко, вы заметили что его гарнитура сломана, вот почему они не выходили на связь
+When the captain got close enough, you noticed that his headset was broken, which is why they weren't communicating
+
+# 45a025d0
+; {name}: Стоп, а почему вы не починили связь, это же легко делаеться
+{name}: Stop, why didn’t you fix the connection, it’s easy to do?
+
+# 95f298f8
+; {name}: Почему не улетели на своей капсуле, она должна была вас ждать пос часа после потери связи
+{name}: Why didn’t you fly away on your capsule, it should have been waiting for you for an hour after losing contact?
+
+# 7375016
+; {name}: Что за расклады?
+{name}: What kind of schedules?
+
+# 159b379d
+; Captain: Не кипятись, сейчас все разкажу
+Captain: Don't get angry, I'll tell you everything now
+
+# 2771ac02
+; Captain: Короче, это была обычная добыча моркита, ничего особеного
+Captain: In short, it was an ordinary morkite catch, nothing special
+
+# c091ef56
+; Captain: Но, когда мы случайно подорвали одну из стен, нашли за ней банк данных нагих конкурентов, ты же понимаешь что это значит?
+Captain: But when we accidentally blew up one of the walls and found behind it a data bank of naked competitors, you understand what this means?
+
+# b11bde35
+; {name}: Та понимаю, у них тут дрони литают и сканируют весь сектор, а в банке жосткий диск со всей инфой
+{name}: But I understand, they have drones here casting and scanning the entire sector, and in the bank there is a hard drive with all the information
+
+# 321630da
+; {name}: Очень полезная штука, чтобы самим его не сканировать
+{name}: A very useful thing so you don’t have to scan it yourself
+
+# 1779395c
+; Captain: Правильно, а знаешь сколько за него любая другая компания отвалит
+Captain: That's right, do you know how much any other company will pay for it?
+
+# 3e4e5f7
+; {name}: И какой у вас был план?
+{name}: And what was your plan?
+
+# cd4bf057
+; {name}: Не сообщить о находке, обрубить связь и кустарным методом вскрывать вскрывать хранилище и ждать пока прибудет мисия что бы забрать ваш моркит?
+{name}: Do not report the find, cut off the connection and use a makeshift method to open the storage and wait until the mission arrives to pick up your morkite?
+
+# bf0812ec
+; Captain: А ты быстро соображаешь, только не говори что ты не в деле
+Captain: And you think quickly, just don’t say that you’re not in the business
+
+# 420abf0d
+; {name}: По уставу надо было сообщить в центр управления тогда и времени и оборудование было бы
+{name}: According to the charter, it was necessary to inform the control center then the time and equipment would be
+
+# fde5d791
+; Captain: И все досталось бы компании, ну ты же не тугой все сам понял
+Captain: And everything would go to the company, well, you’re not stupid, you understood everything yourself
+
+# b7662ce8
+; {name}: Понял что ты рискул жизнью своей и товарищей что бы намахать систему
+{name}: I realized that you risked the lives of yours and your comrades to screw up the system
+
+# 5c34c9b0
+; Captain: Да, мы уже 20 лет пашим на компании а достатка - ноль.
+Captain: Yes, we have been working for the company for 20 years and have zero income.
+
+# 1ce2fbf
+; Captain: А если загоним эту штуку получим такую гору денег что точо выйдем на пенсию, и донца дней работать не будем
+Captain: And if we drive this thing, we’ll get such a mountain of money that we’ll retire and won’t work the rest of our days.
+
+# e4bf8e34
+; Captain: Само сабой ты тоже обиженим не уйдешь
+Captain: Of course you won’t leave offended either
+
+# 5dd63881
+; Captain: Ну как, ты с нами?
+Captain: Well, are you with us?
+
+# 70a92f97
+; Перспектива больше ни для не работь конечто вскружила голову, та и тот факт что компании плевать на нас по большей части правда
+The prospect of no longer having to work turned our heads, of course, and the fact that the company doesn’t care about us for the most part is true.
+
+# 27b96b8e
+; {name}: Ладно, вводи в курс дела.
+{name}: Okay, let me get you up to speed.
+
+# 9231d125
+; Captain: Супер, впринципе мы почти закончили, основные генераторы щита и турели мы убрали, остался только резервный генератор щита
+Captain: Super, in principle we are almost finished, we have removed the main shield generators and turrets, only the backup shield generator remains
+
+# 3f9b2d9b
+; {name}: Ясно
+{name}: Clear
+
+# 93ef9645
+; Captain: Надо собрать бомбу что бы подорвать его, и забрать диск
+Captain: You need to collect a bomb to blow it up and pick up the disk
+
+# dfa19acc
+; {name}: Ок, давайте помогу с бомбой
+{name}: Ok, let me help you with the bomb
+
+# 5232c3ef
+; Captain: Готово и готово, теперь дело за малым, иди и закончи взлом
+Captain: Done and done, now it's just a matter of small things, go and finish the hack
+
+# bb98553a
+; {name}: Стоп, а чего это я
+{name}: Wait, why am I doing this?
+
+# fb4bfc5f
+; Captain: А кто у нас тут свежий и заряженый, ты думаешь легко два часа без патронов и оборудования взламывать хранилище
+Captain: And whoever we have here is fresh and loaded, do you think it’s easy to break into a vault for two hours without ammo or equipment?
+
+# d6ce743
+; {name}: Ладно, ладно
+{name}: OK OK
+
+# 7a4af48d
+; {name}: А вы что будете делать?
+{name}: What will you do?
+
+# b2daf351
+; Captain: Отнисем моркит в твою капсулу, как закончиш приходи сюда, поможем донести бак
+Captain: We'll take the morkite to your capsule, when you're done come here and we'll help you carry the tank.
+
+# 60e0cf2a
+; {name}: Договорились
+{name}: Agreed
+
+# 399302f5
+; MisionControl: {name} доложите, как продвигаеться?
+MisionControl: {name} report back on your progress?
+
+# 8f65e15d
+; {name}: Это центр управления что ему говорить?
+{name}: This is the control center, what should I tell him?
+
+# daaaa2b5
+; Captain: Скажи что мы ранены
+Captain: Say we're hurt
+
+# 4f3c5a5f
+; {name}: Продвигаеться хорошо, я нашел команду они все живи, но серйозно ранены
+{name}: Progress is good, I found the team, they are all alive, but seriously injured
+
+# 71d98865
+; MisionControl: Вот как
+MisionControl: Here's how
+
+# 50cc9813
+; MisionControl: Спасайте их исходя из своих возможностей, как придписывает устав
+MisionControl: Save them based on your capabilities, as the charter states.
+
+# b69ae14d
+; {name}: Понял
+{name}: Understood
+
+# ee0ca068
+; MisionControl: И действуйте быстро, к вам приближаеться рой
+MisionControl: And act quickly, a swarm is approaching you
+
+# 20a457d3
+; Это были слова-тригеры для каждого шахтера, они призывают орду голодных и очень агресивных жуков(призывают конечно в смысле переносном)
+These were trigger words for every miner; they summon a horde of hungry and very aggressive beetles (they call in a figurative sense, of course)
+
+# fe7e3621
+; {name}: К нам идет рой
+{name}: A swarm is coming towards us
+
+# 5b0e58e1
+; Captain: Сейчас мы не сможем от него отбиться, так что забирай диск и валим
+Captain: Now we can't fight him off, so take the disk and let's go
+
+# 6d1c3b20
+; Captain: ВПЕРЕД!!!
+Captain: FORWARD!!!
+
+# 46be258a
+; @goto Map.Start
+@goto Map.Start

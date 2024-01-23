@@ -1,0 +1,7 @@
+# Start
+@hidePrinter 
+@hideUI MapButton
+@showUI QuestMark
+@back Map
+@summonmap MapID:0
+@stop

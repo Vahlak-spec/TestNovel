@@ -1,0 +1,57 @@
+; Russian <ru> to English <en> localization document for `Intro` naninovel script
+
+# 6abbce33
+; @input name summary:"Введите свое имя."
+@input name summary:"Choose your name."
+
+# 3bb3c987
+; MisionControl: {name}, как слышно?
+MisionControl: {name}, can you hear me?
+
+# bb2d3cb9
+; {name}: Слышно хорошо, посадка нормальная
+{name}: Hears well, landing is normal
+
+# 3bd38cff
+; MisionControl: Обрисовываю ситуацию.
+MisionControl: I explain the situation.
+
+# ef6013e1
+; MisionControl: В это место была отправленна команда из четырех дворфов для сбора мокрита.
+MisionControl: A team of four dwarves was sent to this location to collect mokrite.
+
+# ce8e1fb6
+; MisionControl: Два часа назад связь с командой была утерянна, скорее всего их уже нет в живых.
+MisionControl: Two hours ago, contact with the team was lost, most likely they are no longer alive.
+
+# 11c68683
+; MisionControl: Ваша задача: погрузить все добытые ресурсы и оборудованние в капсулу и покинуть планету.
+MisionControl: Your task: load all the extracted resources and equipment into the capsule and leave the planet.
+
+# a558147b
+; MisionControl: Начните поиски с последнего места нахожления отряда и не тратьте время на погрузку тел, даже если они вам попадуться.
+MisionControl: Start your search from the last location of the squad and do not waste time loading bodies, even if you come across them.
+
+# 3277995e
+; MisionControl: Шо не ясно?
+MisionControl: What is not clear?
+
+# efe4b9ee
+; {name}: Все ясно центр управления, начинаю роботу.
+{name}: Everything is clear, the control center, I’m starting to work.
+
+# 4b6d72c8
+; MisionControl: Конец связи.
+MisionControl: End of connection.
+
+# f756fcb6
+; Что ж, могилой этим дварфам станут эти пещеры.
+Well, these caves will become the grave of these dwarves.
+
+# eafac703
+; Та и какие вообще тела, их жуки наверное без остатка сожрали.
+That and what kind of bodies in general, the beetles probably devoured them without a trace.
+
+# 6fb6c001
+; Ладно, за работу.
+Okay, back to work.

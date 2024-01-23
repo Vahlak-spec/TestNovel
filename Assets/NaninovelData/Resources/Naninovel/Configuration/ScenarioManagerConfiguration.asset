@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 335cd912732a2634a969755291b3a571, type: 3}
+  m_Name: ScenarioManagerConfiguration
+  m_EditorClassIdentifier: Assembly-CSharp:Naninovel:ScenarioManagerConfiguration
+  stageValueName: storyStage
+  questValueName: quest
+  _datas:
+  - _paths:
+    - _type: 0
+      _isOpen: 1
+      _fileName: Capsule0
+      _keyName: 
+    - _type: 1
+      _isOpen: 1
+      _fileName: Post0
+      _keyName: 
+    - _type: 2
+      _isOpen: 0
+      _fileName: Storage0
+      _keyName: 
+  - _paths:
+    - _type: 0
+      _isOpen: 1
+      _fileName: Capsule0
+      _keyName: 
+    - _type: 1
+      _isOpen: 1
+      _fileName: Post1
+      _keyName: 
+    - _type: 2
+      _isOpen: 1
+      _fileName: Storage0
+      _keyName: 
+  - _paths:
+    - _type: 0
+      _isOpen: 0
+      _fileName: Capsule0
+      _keyName: 
+    - _type: 1
+      _isOpen: 1
+      _fileName: Post2
+      _keyName: 
+    - _type: 2
+      _isOpen: 0
+      _fileName: Storage0
+      _keyName: 
+  - _paths:
+    - _type: 0
+      _isOpen: 1
+      _fileName: Capsule1
+      _keyName: 
+    - _type: 1
+      _isOpen: 0
+      _fileName: Post2
+      _keyName: 
+    - _type: 2
+      _isOpen: 0
+      _fileName: Storage0
+      _keyName: 
+  _quests:
+  - 'Go to the last resting place of your colleagues '
+  - 'Complete the vault hack '
+  - 'Return to the team '
+  - 'Head to the evacuation capsule '
+  _category: DefaultUI

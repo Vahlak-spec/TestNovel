@@ -1,0 +1,77 @@
+; Russian <ru> to English <en> localization document for `Storage0` naninovel script
+
+# 703e237d
+; Вот и бак данных
+Here is the data tank
+
+# 98e7ecb4
+; Огромная махина под еле работающим защитным щитом
+A huge colossus under a barely working protective shield
+
+# 7784ac93
+; По всему мериметру видны остатки турелей и два масивных провода по которым шла енергия для щита
+Throughout the entire meter you can see the remains of turrets and two massive wires through which energy was supplied to the shield.
+
+# 25455eac
+; Осталось только подорвать резервный внешний генератор, похожий на более футуристичную версию трансформатора на которую сверху прикрепили котушку тесла
+All that remains is to blow up the backup external generator, which looks like a more futuristic version of a transformer with a Tesla coil attached on top
+
+# 3d3f5605
+; {name}: Они хорошо постарались, можна начинать?
+{name}: They did a good job, can we start?
+
+# 43fc2de2
+; @choice ВПЕРЕД!!! goto:.Second
+@choice FORWARD!!! goto:.Second
+
+# 56053d2f
+; @choice Стоп goto:Map
+@choice Stop goto:Map
+
+# ee6027b4
+; Вы закладиваете бомбу без каких либо трудностей
+You plant a bomb without any difficulty
+
+# 3524f43c
+; Отойдя на безопасное растояния как говорит техника безопасности вы включаете дитонатор
+Having moved to a safe distance, as safety precautions say, you turn on the ditonator
+
+# dae3c2a2
+; Раздаеться мощний взрым, во все сторны ленян железный осколки, пить, грязь и все что положено в таком случаи
+There is a powerful explosion, iron fragments everywhere, drink, dirt and everything that is necessary in such cases
+
+# e8bbafb3
+; Когда столб пыли оседает, вы видете что щиты закономерно не работают, а масивная металическая крышка хранилища открылась как у чемодана
+When the column of dust settles, you see that the shields naturally do not work, and the massive metal lid of the storage facility has opened like a suitcase
+
+# e4497137
+; А внутри лежит главный приз - диск с данными
+And inside lies the main prize - a disk with data
+
+# 37e04784
+; Пожон он на тесеракт из фильма "Мстители" но намного больше, в руках явно не поместиться, всем свом видом он показывает собственую стоемость и исключительность
+It looks like the teseract from the movie “The Avengers”, but it’s much bigger, it obviously won’t fit in your hands, with all its appearance it shows its own value and exclusivity
+
+# 99ae6219
+; {name}: А вот и мой приз
+{name}: And here is my prize
+
+# b58259f9
+; MisionControl: РОЙ!!! ПОВТОРЯЮ, РОЙ!!!
+MisionControl: ROY!!! I REPEAT, ROY!!!
+
+# c15b0239
+; После этого в казалось монолитных стенах и потолках пещери появились дыры, через который полезли жуки
+After this, holes appeared in the seemingly monolithic walls and ceilings of the cave, through which beetles climbed
+
+# f1119b58
+; Жуки эти представляю из себя что то среднее между муравъем и пауком, при этом самые маленькие из них размером с собаку породы "Канакорс", а савые большие с Тойоту Лендкрузер
+These beetles are a cross between an ant and a spider, with the smallest of them being the size of a Canacors dog, and the largest being the size of a Toyota Land Cruiser.
+
+# d6a286fb
+; {name}: Блин, надо быстро тащить ету штуку к посту
+{name}: Damn, we need to quickly drag this thing to the post
+
+# 5360b06e
+; Взвалив диск себе на спиту, вы как можно быстрее направились к посту рабочих
+Having put the disk on your back, you headed as quickly as possible to the workers’ post

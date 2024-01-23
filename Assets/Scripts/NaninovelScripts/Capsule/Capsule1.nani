@@ -1,0 +1,54 @@
+# Start
+@showUI MapButton
+@back Capsule
+@char Gunner.Default
+
+Captian: А вот и наш герой
+{name}: А кто говорил что поможет с диском?
+Captian: Ну прости, ми не отбились бы от жуков даже если бы захотели
+Captian: Давай помогу, улетаем от сюда
+Что то теперь не охота делить с ними добычу
+@showUI MisionControl
+MisionControl: Вы закончили? Как обстановка.
+Captian: Ты чего застыл? Давай.
+@hideUI MisionControl
+@choice "Поделить добичу" goto:.First
+@choice "Оставить себе" goto:.Second
+@choice "Сообщить центру управления" goto:.Third
+@hidePrinter 
+@stop
+
+# First
+@showPrinter 
+
+{name}: Держи, надеюсь поделим справедливо?
+Captian: А как иначе
+@stopBgm They´re-Here
+@hidePrinter 
+
+@stop
+
+# Second
+
+{name}: Нет уж, я ету штуку добил рискуя жизнья, она моя
+Captian: Ми так, не договариались
+С этими словами капитан направляет четири ствола своего минигана в вашу сторону
+{name}: Стреляй, не отдам
+Стрелять он не начинает, явно блефует
+Captian: Ладно, хрен с тобой не хочу тебя хоронить
+
+@stopBgm They´re-Here
+@hidePrinter 
+@stop
+
+# Third
+
+{name}: Цент управления, мы нашли хранилища данных конкурентов, тащим диск на базу
+Captian: Ты чего твориш?
+@showUI MisionControl
+MisionControl: Ценная находка, грузите эго, компания не забудет нашей преданости
+@hideUI MisionControl
+@stopBgm They´re-Here
+@hidePrinter 
+
+@stop

@@ -1,0 +1,28 @@
+@back Capsule
+@hidePrinter 
+@bgm Into-The-Abyss loop:true
+@input name summary:"Введите свое имя."
+@stop
+@showPrinter 
+@showUI MapButton
+@showUI MisionControl
+MisionControl: {name}, как слышно?
+@hideUI MisionControl
+{name}: Слышно хорошо, посадка нормальная
+@showUI MisionControl
+MisionControl: Обрисовываю ситуацию.
+MisionControl: В это место была отправленна команда из четырех дворфов для сбора мокрита.
+MisionControl: Два часа назад связь с командой была утерянна, скорее всего их уже нет в живых.
+MisionControl: Ваша задача: погрузить все добытые ресурсы и оборудованние в капсулу и покинуть планету.
+MisionControl: Начните поиски с последнего места нахожления отряда и не тратьте время на погрузку тел, даже если они вам попадуться.
+MisionControl: Шо не ясно?
+@hideUI MisionControl
+{name}: Все ясно центр управления, начинаю роботу.
+@showUI QuestMark
+@showUI MisionControl
+MisionControl: Конец связи.
+@hideUI MisionControl
+Что ж, могилой этим дварфам станут эти пещеры.
+Та и какие вообще тела, их жуки наверное без остатка сожрали.
+Ладно, за работу.
+@goto Map.Start

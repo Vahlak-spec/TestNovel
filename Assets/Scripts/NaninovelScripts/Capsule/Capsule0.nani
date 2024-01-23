@@ -1,0 +1,9 @@
+# Start
+@showUI MapButton
+@back Capsule
+@showUI MisionControl
+MisionControl: Вы почему ошиваетесь возле капсули, а ну быстро за работу
+@hideUI MisionControl
+{name}: Понял, понял
+Вот проклятый все он видит
+@goto Map.Start
